@@ -1,12 +1,12 @@
-cff-version: 1.2.0
+cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: Fajiculay
     given-names: Erickson
-    orcid: https://orcid.org/0000-0002-5515-1493
+    orcid: 0000-0002-5515-1493
 title: "PyFNRI: Python Library for Food and Nutrition Research"
 version: 1.0
 identifiers:
-  - type: 
-    value: 
-date-released: 02/24/2025
+  - type: doi
+    value: 10.5281/zenodo.14915655
+date-released: 2025-02-24
